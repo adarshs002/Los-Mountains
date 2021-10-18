@@ -147,6 +147,12 @@ body {
     display: flex;
 
 }
+@media only screen and (max-width:500px) {
+    .white-space-2{
+        left: 8%;
+    }
+
+}
 
 .white-space-2 p{
     font-size: small;
